@@ -1,0 +1,9 @@
+linters-settings:
+  custom:
+    gopher:
+      type: module
+
+linters:
+  disable-all: true
+  enable:
+    - gopher
